@@ -1,7 +1,3 @@
-### TodoList ###
-- I created todolist using golang and angular
-
-
 # Install go
 check go version `go version`
 
