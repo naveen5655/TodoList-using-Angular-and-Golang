@@ -1,7 +1,6 @@
 ### TodoList ###
 - I created todolist using golang and angular
 
-### Golang ###
 
 # Install go
 check go version `go version`
@@ -14,6 +13,9 @@ check go version `go version`
 `go get github.com/gofiber/fiber/v2`
 
 run application: `go run .`
+
+![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/eb9ef67f-f984-4605-ab4a-228841228d84)
+
 
 # install ORM
 `go get -u gorm.io/gorm`
@@ -47,3 +49,22 @@ create component:
 
 create service:
 `ng g service todo-list`
+
+## Screenshots:
+# Add tolist
+![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/b537eb17-6698-4efa-b544-59dbf063960a)
+
+# Click on add task
+![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/872a0c76-84a8-4fb0-b818-ed420e28811a)
+
+# Delete Task
+![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/d1789721-4277-4ec2-bd36-35fd2b77808c)
+
+
+click on ok, it will delete the task
+![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/eb8b27c2-a681-491e-b09f-4e71dc48129f)
+
+
+
+
+
