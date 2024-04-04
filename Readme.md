@@ -51,8 +51,9 @@ create service:
 `ng g service todo-list`
 
 ## Screenshots:
-# Add tolist
-![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/b537eb17-6698-4efa-b544-59dbf063960a)
+# Type task
+![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/2a81f5b0-24ea-4d77-86b1-d1ea1fe6bbc5)
+
 
 # Click on add task
 ![image](https://github.com/naveen5655/TodoList-using-Angular-and-Golang/assets/89301294/872a0c76-84a8-4fb0-b818-ed420e28811a)
