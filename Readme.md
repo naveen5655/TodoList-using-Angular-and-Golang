@@ -28,18 +28,22 @@ run application: `go run .`
 
 - post ` localhost:8000/todos`
 
-`
+```
   {
     "title":"do something else",
     "completed":false
   }
 
-`
+```
 
-404 = error
-500 = success
 
 
 ### Angular ###
 
 check version `ng version`
+
+create component:
+`ng g component todo-form`
+
+create service:
+`ng g service todo-list`
